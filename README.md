@@ -1,6 +1,14 @@
 # Semifinal-Project---CSElec1-Parallel-and-Distributed-Computing
 Semifinal Project for CSElec1 Parallel and Distributed Computing
 
+MEMBERS:
+  GROUP 1:
+            EPIS, RYAN LOUISE DEPONE
+            BERIñA, PAULO BARANDA
+            DORADO, IVHAN ROI
+
+INSTRUCTION:
+
 Main Requirement: Write an algorithm and a C++ code simulating a queue in a supermarket.
 
 Context: When customers have finalized their market cart, they shall then line up in the cashier lane to have their items scanned and ultimately be paid.
