@@ -34,4 +34,4 @@ Succeeding line(s): Contains a space-separated data of:
    (b) the value `bag` or `box`, as the preferred packaging
    (c) the number of bags/boxes to be used
    (d) the value `cash` or `digital`, as the preferred payment method
-   (e) the value `e` or `ne`, if payment method is cash, which means `exact` or `not exact`
+   (e) the value `e` or `ne`, if payment method is cash, which means `exact` or `not exact` 
